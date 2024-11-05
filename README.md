@@ -1,4 +1,4 @@
-## Personal Projects
+# Projects
 
 This repository contains the initial versions of few projects I have worked on:
 

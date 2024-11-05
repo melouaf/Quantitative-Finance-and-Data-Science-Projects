@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains the initial versions of few projects I have worked on:
+This repository contains the initial versions of few projects I have worked on: 
 
 - **Gold Price and Returns Prediction**
 - **Credit Card Fraud Detection**
